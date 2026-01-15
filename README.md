@@ -2,6 +2,24 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.5.
 
+## Kata2 Prompt
+
+```
+Kata 2 — Selector as Identity
+Task:
+Create a UserCardComponent and render it:
+1.	Using <user-card></user-card>
+2.	Using document.createElement(...) imperatively (attempt)
+Constraints:
+•	Do NOT use Angular APIs for the imperative attempt
+•	Observe what Angular does not manage
+Deliverable:
+•	One declarative render
+•	One failed or unmanaged imperative render
+Reflection Trigger:
+What does the selector give Angular that imperative DOM creation does not?
+```
+
 ## Development server
 
 To start a local development server, run:
