@@ -1,0 +1,15 @@
+.kata {
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  padding: 24px;
+}
+
+.kata__row {
+  margin-top: 16px;
+}
+
+#imperative-host user-card {
+  display: inline-block;
+  border: 1px dashed #c44;
+  padding: 8px 12px;
+  color: #c44;
+}
